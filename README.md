@@ -15,3 +15,10 @@ This insight reveals talent deficit and surplus by skill and US state by subtrac
 
 ### Geographic Distribution
   This visualization shows the distribution of supply and demand of skills across the United States, and which states have the highest and lowest supply shortage.
+
+
+## Tools
+
+    Python & Jupyter notebook for data wrangling
+    Tableau for data visualization
+    Canva for document layout and design
